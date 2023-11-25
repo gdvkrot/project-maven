@@ -16,6 +16,8 @@ target/
 /target/
 .idea/
 .idea
+.bin/
+.bin
 .repository/
 *.iml
 *.iws
